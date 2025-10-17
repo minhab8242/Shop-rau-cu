@@ -8,7 +8,6 @@
         <h1 class="text-success fw-bold mb-2">🥬 Chào mừng đến cửa hàng Rau Củ</h1>
         <p class="text-muted">Những sản phẩm tươi ngon, sạch sẽ, được chọn lọc kỹ lưỡng</p>
         <br> 
-        <p class="text-muted"> ĐƯỢC CHỌN LỌK KĨ CÀNG BỞI CHUYÊN GIA DINH DƯỠNG TRẦN TRỌNG MINH :> </P>
     </div>
 </div>
 
